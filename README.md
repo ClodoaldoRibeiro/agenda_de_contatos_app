@@ -20,7 +20,7 @@ As tecnologias usadas até o momento são:
 ## Telas
 <p align="center">
 <img src="https://github.com/ClodoaldoRibeiro/agenda_de_contatos_app/blob/master/screenshots/02.jpeg" alt="ClodoaldoRibeiro"/>
-<h5 align="center">Tela2: Home</h5>
+<h5 align="center">Tela1: Home</h5>
 </p>
 <br /> 
 <br /> 
